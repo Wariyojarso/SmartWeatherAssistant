@@ -97,6 +97,7 @@ Software: Python, Arduino IDE, C++, Visual-Studio code.
 
 Libraries: Install required libraries for sensor communication and TTS ( DHT11, serial, pyttsx3, requests, speech_recognition, datetime).
 
+youtube video link https://youtu.be/qxFxPrKA-Ks
 References
 
 https://docs.arduino.cc/
